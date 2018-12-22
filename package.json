@@ -1,0 +1,19 @@
+{
+  "name": "glug_website",
+  "version": "1.0.0",
+  "description": "Website for KL GLUG.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaya738/KLGLUG-Website.git"
+  },
+  "author": "Jaya Simha Reddy Nandyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaya738/KLGLUG-Website/issues"
+  },
+  "homepage": "https://github.com/Jaya738/KLGLUG-Website#readme"
+}
